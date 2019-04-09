@@ -1,2 +1,3 @@
 # hello-world
-CPSC 5052 test repo
+
+Hello. Here is _some_ ~~very~~ sweet **markdown** for the readme.
